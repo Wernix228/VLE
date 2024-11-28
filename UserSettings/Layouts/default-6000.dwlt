@@ -39,12 +39,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1639
+    x: 1650
     y: 0
-    width: 483
+    width: 472
     height: 827
-  m_MinSize: {x: 102, y: 126}
-  m_MaxSize: {x: 4002, y: 4026}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 47
+  controlID: 131
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -243,7 +243,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 535
     y: 0
-    width: 1104
+    width: 1115
     height: 827
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -349,7 +349,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d8acffff68b5ffff88880000d2880000
+      m_ExpandedIDs: 6ea6ffffb6a7fffff0a7ffff3ca9ffffa4a9ffff3aabffff8aafffff3eb0ffffeabeffff24fbfffff07b000062880000fa8b0000b48c0000cc8c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -398,7 +398,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 535
     y: 79
-    width: 1102
+    width: 1113
     height: 801
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -870,9 +870,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 532.7336, y: 970.60425, z: -1024.6012}
+    m_Target: {x: 381.65054, y: 1004.8771, z: -41.47031}
     speed: 2
-    m_Value: {x: 532.7336, y: 970.60425, z: -1024.6012}
+    m_Value: {x: 381.65054, y: 1004.8771, z: -41.47031}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 2
@@ -918,13 +918,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.00031015085, y: -0.000005025971, z: 0.00000019967139, w: 0.9999994}
+    m_Target: {x: 0.030305326, y: 0.002993611, z: -0.00009056115, w: 0.9995356}
     speed: 2
-    m_Value: {x: 0.00031015102, y: -0.0000050259737, z: 0.0000001996715, w: 0.99999994}
+    m_Value: {x: 0.030305345, y: 0.0029936128, z: -0.0000905612, w: 0.9995362}
   m_Size:
-    m_Target: 10
+    m_Target: 1061.9955
     speed: 2
-    m_Value: 10
+    m_Value: 1061.9955
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -977,9 +977,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1639
+    x: 1650
     y: 79
-    width: 481
+    width: 470
     height: 801
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1007,7 +1007,7 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 07000000000000000000000005000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
@@ -1034,26 +1034,26 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 481
+      width: 470
       height: 780
     m_Scale: {x: 0.40625, y: 0.40625}
-    m_Translation: {x: 240.5, y: 390}
+    m_Translation: {x: 235, y: 390}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -592
+      x: -578.46155
       y: -960
-      width: 1184
+      width: 1156.9231
       height: 1920
     m_MinimalGUI: 1
   m_defaultScale: 0.40625
-  m_LastWindowPixelSize: {x: 481, y: 801}
+  m_LastWindowPixelSize: {x: 470, y: 801}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_LowResolutionForAspectRatios: 01000001000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
 --- !u!114 &16
@@ -1141,7 +1141,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Textures
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1151,16 +1151,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Textures
+  - Assets/Scenes
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Wernix\Desktop\papka
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 54.200012}
-    m_SelectedIDs: c2890000
-    m_LastClickedID: 35266
-    m_ExpandedIDs: 00000000b289000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 41}
+    m_SelectedIDs: 407d0000
+    m_LastClickedID: 32064
+    m_ExpandedIDs: 00000000d87c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1189,7 +1189,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000d87c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

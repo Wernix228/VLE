@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://api-maps.yandex.ru/2.1/?apikey=22da7651-2037-4566-83df-b323f6672ba5&lang=ru_RU" type="text/javascript"></script>
+  <style>html, body, #map { width: 100%; height: 100%; margin: 0; padding: 0; }</style>
+</head>
+<body>
+  <div id="map"></div>
+  <script>
+    ymaps.ready(function () {
+      var map = new ymaps.Map("map", {
+        center: [51.666104, 39.205441], // Белый Бим
+        zoom: 20
+      });
+    });
+  </script>
+</body>
+</html>

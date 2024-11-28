@@ -46,7 +46,6 @@ public class UserAuth : MonoBehaviour
         if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
         {
             messageText.text = "¬ведите им€ пользовател€ и пароль.";
-            Debug.Log(messageText.text);
             return;
         }
 

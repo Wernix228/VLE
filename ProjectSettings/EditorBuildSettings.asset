@@ -11,10 +11,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 9654a557ba19ae046a96461836d877fc
-  - enabled: 1
-    path: Assets/Scenes/Map.unity
-    guid: 0e99058777cbde64b9f8bdebf5c7facf
-  - enabled: 1
-    path: Assets/Scenes/PlaceDetails.unity
-    guid: 65f0b1b29b9b5444eb23914cc474b73d
-  m_configObjects: {}
+  - enabled: 0
+    path: Assets/Scenes/Monuments.unity
+    guid: bc6e1a8db4da059459c7f8cbe5e90fbe
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 57630a173d1c3b44ebaf05d5f92e6796, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 31973cd323a04894888643ab7fa35ec1,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 6d24ce01a84411c478d675e4925a2ac6, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 699ec00874d44a744974f0561baec316, type: 2}
+  m_UseUCBPForAssetBundles: 0

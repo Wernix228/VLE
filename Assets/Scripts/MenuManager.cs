@@ -1,13 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Menu");
+        
     }
 
     // Update is called once per frame
@@ -15,8 +16,16 @@ public class MenuManager : MonoBehaviour
     {
 
     }
-    public void SendUserMessage()
+    public void GoToMonuments()
     {
-        Debug.Log("Click");
+        SceneManager.LoadScene("Monuments");
+    }
+    public void GoToMuseums()
+    {
+        SceneManager.LoadScene("Museums");
+    }
+    public void GoToEvents()
+    {
+        SceneManager.LoadScene("Events");
     }
 }

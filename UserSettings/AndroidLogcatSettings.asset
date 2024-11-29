@@ -1,31 +1,13 @@
 {
     "m_SelectedDeviceId": "CM7DPFX4PNZHTWHA",
     "m_SelectedProcess": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "CM7DPFX4PNZHTWHA",
+        "name": "com.DefaultCompany.VLE",
+        "processId": 29319,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownProcessesForSerialization": [
-        {
-            "deviceId": "CM7DPFX4PNZHTWHA",
-            "name": "com.DefaultCompany.VLE",
-            "processId": 11835,
-            "exited": true
-        },
-        {
-            "deviceId": "CM7DPFX4PNZHTWHA",
-            "name": "com.DefaultCompany.VLE",
-            "processId": 12505,
-            "exited": true
-        },
-        {
-            "deviceId": "CM7DPFX4PNZHTWHA",
-            "name": "com.DefaultCompany.VLE",
-            "processId": 13036,
-            "exited": true
-        },
         {
             "deviceId": "CM7DPFX4PNZHTWHA",
             "name": "com.miui.home",
@@ -34,8 +16,62 @@
         },
         {
             "deviceId": "CM7DPFX4PNZHTWHA",
-            "name": "com.vkontakte.android",
-            "processId": 17522,
+            "name": "com.DefaultCompany.VLE",
+            "processId": 2567,
+            "exited": true
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 12431,
+            "exited": true
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 15966,
+            "exited": true
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.whatsapp",
+            "processId": 15024,
+            "exited": false
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 25544,
+            "exited": true
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 26490,
+            "exited": false
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 30329,
+            "exited": false
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 4792,
+            "exited": false
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 26771,
+            "exited": false
+        },
+        {
+            "deviceId": "CM7DPFX4PNZHTWHA",
+            "name": "com.DefaultCompany.VLE",
+            "processId": 29319,
             "exited": false
         }
     ],
@@ -73,7 +109,7 @@
     },
     "m_ExtraWindowState": {
         "Type": 0,
-        "Height": 0.0
+        "Height": 255.0
     },
     "m_MemoryViewerState": {
         "MemoryWindowWidth": 170.0,

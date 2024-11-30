@@ -67,6 +67,10 @@ public class UserAuth : MonoBehaviour
             messageText.text = "Пользователь не найден.";
         }
     }
+    public void nonRegister()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
 
     // Метод для сброса данных (только для тестирования)
     public void ResetData()
